@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor de Oliveira Gonçalves
-- 👀 I’m interested in Data Science and Financial Market
-- 🌱 I’m currently improving my Data Science skills
+- 👀 I’m interested in Data Engineering, Data Science and Financial Market
+- 🌱 I’m currently improving skills in cloud computing
 - 📫 How to reach me @thevictor17 (Instagram)
 
 <!---
