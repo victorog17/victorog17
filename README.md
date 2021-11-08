@@ -1,8 +1,8 @@
-### 👋 Hi, I’m Victor de Oliveira Gonçalves
+### 👋 Hi, I’m Victor de Oliveira Gonçalves, a padawan in data world 🌎
 
-- 👀 I’m interested in Data Engineering, Data Science and Financial Market
-- 🌱 I’m currently improving skills in cloud computing
-- 📫 You can reach me in my e-mail: victor.og17@gmail.com and on LinkedIn: https://www.linkedin.com/in/victor-de-oliveira-goncalves/
+- 👀 I’m interested in Data Engineering, Data Science and Financial Market.
+- 🌱 I’m currently improving skills in cloud computing.
+- 📫 You can reach me in by e-mail and on LinkedIn, just take a look on the links below.
 
 <div align="center">
   <a href="https://github.com/victorog17">
