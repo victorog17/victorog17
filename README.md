@@ -19,6 +19,7 @@
 <div style="display: inline_block"><br>
  <img height="80px" alt="Victor-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
  <img height="80px" alt="Victor-Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+ <img height="80px" alt="Victor-Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
  <img height="80px" alt="Victor-Sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img height="80px" alt="Victor-mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img height="80px" alt="Victor-spark" src="https://symbols.getvecta.com/stencil_74/35_apache-spark.91b7a417a5.svg" />
