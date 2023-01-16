@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Victor de Oliveira Gonçalves, a padawan in data world 🌎
+### 👋 Hi, My name is Victor de Oliveira Gonçalves and I work as data engineer 🌎
 
 - 👀 I’m interested in Data Engineering, Data Science and Financial Market.
 - 🌱 I’m currently improving skills in cloud computing.
