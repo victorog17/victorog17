@@ -1,7 +1,9 @@
-### 👋 Hi, My name is Victor de Oliveira Gonçalves and I work as data engineer 🌎
+### 👋 Hi, My name is Victor de Oliveira Gonçalves
 
+- 🎓 Graduated in Mechanical Industrial Engineering
+- 📜 Data Engineer
 - 👀 I’m interested in Data Engineering, Data Science and Financial Market.
-- 🌱 I’m currently improving skills in cloud computing.
+- 🌱 Python, SQL, AWS, Scala, Spark, Pandas.
 - 📫 You can reach me in by e-mail and on LinkedIn, just take a look on the links below.
 
 ## Infos:
